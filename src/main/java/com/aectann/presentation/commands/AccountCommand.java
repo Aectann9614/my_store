@@ -1,4 +1,4 @@
-﻿package com.aectann.presentation.commands;
+package com.aectann.presentation.commands;
 
 import com.aectann.domain.issues.AccountIssue;
 import com.aectann.presentation.Command;
